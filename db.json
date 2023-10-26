@@ -1,0 +1,24 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Music Festival",
+      "description": "A vibrant music festival featuring top artists from around the world."
+    },
+    {
+      "id": 2,
+      "name": "Soccer Match",
+      "description": "An exciting soccer match between two rival teams."
+    },
+    {
+      "id": 3,
+      "name": "Coding Workshop",
+      "description": "Learn the art of coding with experienced professionals."
+    },
+    {
+      "id": 4,
+      "name": "Rock Concert",
+      "description": "A high-energy rock concert with electrifying performances."
+    }
+  ]
+}
